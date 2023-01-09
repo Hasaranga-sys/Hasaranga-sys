@@ -27,9 +27,6 @@
 <a href="https://www.linkedin.com/in/hasaranga-wijesinghe-30a11021a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hasarangas's LinkedIn Profile">
 </a>  
-<a href="hasarangawije2345@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="hasaranga's  Facebook Profile">
-</a>
 
 
 
